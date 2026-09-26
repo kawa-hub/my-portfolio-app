@@ -1,12 +1,12 @@
 # my-portfolio-app
-# Hi there 👋 I'm [あなたの名前]
+# Hi there 👋 I'm KAWASAKI
 
 ## About Me
 
 - 🔭 現在は **[プロジェクト名]** を開発しています
-- 🌱 **[学習中の技術]** を学んでいます
-- 💼 **[職種・経歴]** として活動しています
-- 📝 **[Qiita / Zenn]** で技術記事を書いています
+- 🌱 **typeScirpt** を学んでいます
+- 💼 **GISエンジニア** として活動しています
+
 
 ## Tech Stack
 
@@ -18,18 +18,14 @@
 ### Frameworks & Libraries
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
 
 ### Infrastructure
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
 ## Featured Projects
 
