@@ -2,9 +2,6 @@
 # Hi there 👋 I'm KAWASAKI
 
 ## About Me
-
-- 🔭 現在は **[プロジェクト名]** を開発しています
-- 🌱 **typeScirpt** を学んでいます
 - 💼 **GISエンジニア** として活動しています
 
 
