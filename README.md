@@ -28,7 +28,7 @@
 
 | プロジェクト | 説明 | 技術 |
 |:--|:--|:--|
-| [Project A](https://github.com/user/project-a) | 〇〇するアプリ | Next.js, Prisma, PostgreSQL |
+| [離島マップ](https://kawa-hub.github.io/web_gis_ritoumap/okinawa-ritou-map.html) | 経県値マップ　離島版アプリ | javascript, HTML, css |
 | [Project B](https://github.com/user/project-b) | △△を自動化するCLI | Go, Cobra |
 
 ## Links
